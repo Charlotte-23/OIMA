@@ -3,7 +3,7 @@
 ## Online-Insurance-Management-App
 This application is meant to used by insurance brokers, agents and customers to manage insurance and claims.
 
-Environment: MySQL 8.0, Java 8, Tomcat 8.5, Bootstrap 4
+***Environment: MySQL 8.0, Java 8, Tomcat 8.5, Bootstrap 4***
 
 ###  Home page
 ![welcome Screen](/img/welcome.png)
